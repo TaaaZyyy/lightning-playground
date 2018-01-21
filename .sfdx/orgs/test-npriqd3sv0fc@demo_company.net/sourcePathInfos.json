@@ -32,44 +32,42 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031976,
             "changeTime": 1516544031976,
-            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1516532019280,
-            "changeTime": 1516532019280,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1516543029808,
+            "changeTime": 1516543029808,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "bd63deb94e03efce23a062d75995141c2c481f7c"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1516532039727,
-            "changeTime": 1516532039727,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1516542841431,
+            "changeTime": 1516542841431,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e"
         }
     ],
     [
@@ -140,14 +138,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.css",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516543029841,
-            "changeTime": 1516543029841,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 42,
+            "modifiedTime": 1516544125953,
+            "changeTime": 1516544125953,
+            "contentHash": "62dda4a9b8a1543d6ddd02a3175237fd0c401dbf"
         }
     ],
     [
@@ -322,287 +320,287 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2091,
             "modifiedTime": 1516544031798,
             "changeTime": 1516544031798,
-            "contentHash": "d5ef42943466fc6f6dc4d59d9871951c7bb6a082"
+            "contentHash": "d5ef42943466fc6f6dc4d59d9871951c7bb6a082",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 386,
             "modifiedTime": 1516544031808,
             "changeTime": 1516544031808,
-            "contentHash": "dadd9522094b25bd10ddf230fba9568965d45d40"
+            "contentHash": "dadd9522094b25bd10ddf230fba9568965d45d40",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 357,
             "modifiedTime": 1516544031820,
             "changeTime": 1516544031820,
-            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5"
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 302,
             "modifiedTime": 1516544031831,
             "changeTime": 1516544031831,
-            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b"
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 326,
             "modifiedTime": 1516544031841,
             "changeTime": 1516544031841,
-            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d"
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\Camping_Item__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\Camping_Item__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2103,
             "modifiedTime": 1516544031873,
             "changeTime": 1516544031873,
-            "contentHash": "66424d5289714dccb90d1d4d47a828617c66d0b1"
+            "contentHash": "66424d5289714dccb90d1d4d47a828617c66d0b1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Packed__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Packed__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 318,
             "modifiedTime": 1516544031881,
             "changeTime": 1516544031881,
-            "contentHash": "de3ae6bf636b183d0d98ac6bba09c831b718a01c"
+            "contentHash": "de3ae6bf636b183d0d98ac6bba09c831b718a01c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Price__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Price__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 358,
             "modifiedTime": 1516544031892,
             "changeTime": 1516544031892,
-            "contentHash": "0d6ef6240b985c3d5480f53da45daa78a0b0277c"
+            "contentHash": "0d6ef6240b985c3d5480f53da45daa78a0b0277c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Quantity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Quantity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 389,
             "modifiedTime": 1516544031901,
             "changeTime": 1516544031901,
-            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579"
+            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts\\Expense__c-経費レイアウト.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts\\Expense__c-経費レイアウト.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2493,
             "modifiedTime": 1516544031927,
             "changeTime": 1516544031927,
-            "contentHash": "4ac379efff8c184612fe004b1a1efec73abcf30a"
+            "contentHash": "4ac379efff8c184612fe004b1a1efec73abcf30a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts\\Camping_Item__c-Camping Itemレイアウト.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts\\Camping_Item__c-Camping Itemレイアウト.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2364,
             "modifiedTime": 1516544031953,
             "changeTime": 1516544031953,
-            "contentHash": "0a4e00a07c7af3d3cd204f758e4da81a56dc6b44"
+            "contentHash": "0a4e00a07c7af3d3cd204f758e4da81a56dc6b44",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5129,
             "modifiedTime": 1516544031981,
             "changeTime": 1516544031981,
-            "contentHash": "de381a44fa5cde873a9c17505494e96446cadb41"
+            "contentHash": "de381a44fa5cde873a9c17505494e96446cadb41",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5467,
             "modifiedTime": 1516544032010,
             "changeTime": 1516544032010,
-            "contentHash": "27da724778d0af16daef6f3e0d04a4b790fc226c"
+            "contentHash": "27da724778d0af16daef6f3e0d04a4b790fc226c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18498,
             "modifiedTime": 1516544032066,
             "changeTime": 1516544032066,
-            "contentHash": "c68ff30d32b895362b040f0337f9050ee368d73a"
+            "contentHash": "c68ff30d32b895362b040f0337f9050ee368d73a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5129,
             "modifiedTime": 1516544032119,
             "changeTime": 1516544032119,
-            "contentHash": "de381a44fa5cde873a9c17505494e96446cadb41"
+            "contentHash": "de381a44fa5cde873a9c17505494e96446cadb41",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031806,
             "changeTime": 1516544031806,
-            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5"
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031870,
             "changeTime": 1516544031870,
-            "contentHash": "95447a554bd4004855e262aeff44eef92c8eb343"
+            "contentHash": "95447a554bd4004855e262aeff44eef92c8eb343",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Expense__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031841,
             "changeTime": 1516544031841,
-            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3"
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031880,
             "changeTime": 1516544031880,
-            "contentHash": "40c887785cf5353adea75e954d661c2b095466b1"
+            "contentHash": "40c887785cf5353adea75e954d661c2b095466b1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\objects\\Camping_Item__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031901,
             "changeTime": 1516544031901,
-            "contentHash": "8afa910de6f6d993027cc908a4ffb449f7de8124"
+            "contentHash": "8afa910de6f6d993027cc908a4ffb449f7de8124",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544031952,
             "changeTime": 1516544031952,
-            "contentHash": "9052f5bf41feebe71c1b62e09941e070b8aa94c3"
+            "contentHash": "9052f5bf41feebe71c1b62e09941e070b8aa94c3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516544032118,
             "changeTime": 1516544032118,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
