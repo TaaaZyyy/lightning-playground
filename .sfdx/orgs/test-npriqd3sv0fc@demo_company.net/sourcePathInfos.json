@@ -48,9 +48,9 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1516622369826,
-            "changeTime": 1516622369826,
-            "contentHash": "68ba15de48fbb10d5ba9483313ae2d365f4ab8ca",
+            "modifiedTime": 1516630289190,
+            "changeTime": 1516630289190,
+            "contentHash": "d2fcdb10b29df2606e4f233517c1c5f10d3f243a",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1412,14 +1412,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 903,
             "modifiedTime": 1516629657658,
             "changeTime": 1516629657658,
-            "contentHash": "311bf5a01263b5362a0174847b404caae586d992"
+            "contentHash": "311bf5a01263b5362a0174847b404caae586d992",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1508,6 +1508,136 @@
             "size": 50,
             "modifiedTime": 1516622369890,
             "changeTime": 1516622369890,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516630289283,
+            "changeTime": 1516630289283,
+            "contentHash": "055ed73443ba6d52eecadaa7a54e4d2f5a521faa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516630289277,
+            "changeTime": 1516630289277,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 453,
+            "modifiedTime": 1516631379140,
+            "changeTime": 1516631379140,
+            "contentHash": "f73214dbd7f351b7677326e00e88c3e7e5bb4606"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1516630289212,
+            "changeTime": 1516630289212,
+            "contentHash": "b2dfade7e1af3441f520905b5a7ed3659ad0206b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516630289252,
+            "changeTime": 1516630289252,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516630289283,
+            "changeTime": 1516630289283,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516630289269,
+            "changeTime": 1516630289269,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516630289233,
+            "changeTime": 1516630289233,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516630289243,
+            "changeTime": 1516630289243,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516630289260,
+            "changeTime": 1516630289260,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"

@@ -5,6 +5,7 @@
     <members>camping</members>
     <members>campingHeader</members>
     <members>campingList</members>
+    <members>campingListItem</members>
     <members>expenseItem</members>
     <members>harnessApp</members>
     <members>helloHeading</members>
