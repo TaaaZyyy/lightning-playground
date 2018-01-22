@@ -45,29 +45,29 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516549351651,
             "changeTime": 1516549351651,
-            "isWorkspace": false,
-            "contentHash": "97530d2019fd80080d26bfa563a646bd1c65fe58"
+            "contentHash": "97530d2019fd80080d26bfa563a646bd1c65fe58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1516542841431,
-            "changeTime": 1516542841431,
-            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 0,
+            "modifiedTime": 1516549742471,
+            "changeTime": 1516549742471,
+            "isWorkspace": true,
+            "contentHash": "2314258f5a632ae1cc38cf35097f0dc26cf1368d"
         }
     ],
     [
@@ -216,14 +216,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 86,
             "modifiedTime": 1516548768115,
             "changeTime": 1516548768115,
-            "contentHash": "7a8b87987faae28fe090f4268ee5c6505bd66a2b"
+            "contentHash": "7a8b87987faae28fe090f4268ee5c6505bd66a2b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -606,300 +606,300 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516549230237,
             "changeTime": 1516549230237,
-            "contentHash": "e81c83dca61052decd0d501184d365b88b752b29"
+            "contentHash": "e81c83dca61052decd0d501184d365b88b752b29",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516549351707,
             "changeTime": 1516549351707,
-            "contentHash": "c3aa0aae3f426ba73fcb32074d1055b7bb03b103"
+            "contentHash": "c3aa0aae3f426ba73fcb32074d1055b7bb03b103",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516549331671,
             "changeTime": 1516549331671,
-            "contentHash": "0d95e2cdae4a0c82fff7bee3298c13d65364a207"
+            "contentHash": "0d95e2cdae4a0c82fff7bee3298c13d65364a207",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516548679072,
             "changeTime": 1516548679072,
-            "contentHash": "150fe12d73e2b8dcee27a28a13924915a31f51f8"
+            "contentHash": "150fe12d73e2b8dcee27a28a13924915a31f51f8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.auradoc",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1516549230232,
             "changeTime": 1516549230232,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 80,
             "modifiedTime": 1516549613569,
             "changeTime": 1516549613569,
-            "contentHash": "e4e59e0648c8c7e35362958d3838fd4aa260f294"
+            "contentHash": "e4e59e0648c8c7e35362958d3838fd4aa260f294",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 239,
             "modifiedTime": 1516549230176,
             "changeTime": 1516549230176,
-            "contentHash": "7430d3806a9e6d1648498d4e58fe7d735af8b79c"
+            "contentHash": "7430d3806a9e6d1648498d4e58fe7d735af8b79c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.css",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1516549230209,
             "changeTime": 1516549230209,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.design",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1516549230237,
             "changeTime": 1516549230237,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.svg",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1516549230223,
             "changeTime": 1516549230223,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1516549230192,
             "changeTime": 1516549230192,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1516549230202,
             "changeTime": 1516549230202,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingRenderer.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\campingRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1516549230215,
             "changeTime": 1516549230215,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.auradoc",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1516549351702,
             "changeTime": 1516549351702,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 66,
             "modifiedTime": 1516549520948,
             "changeTime": 1516549520948,
-            "contentHash": "a13e6448d585faaf75835bd8d679aac3124d2b63"
+            "contentHash": "a13e6448d585faaf75835bd8d679aac3124d2b63",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 245,
             "modifiedTime": 1516549351659,
             "changeTime": 1516549351659,
-            "contentHash": "76d1fade5be6f412ff36038a4961ddfd2471d326"
+            "contentHash": "76d1fade5be6f412ff36038a4961ddfd2471d326",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.css",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1516549550048,
             "changeTime": 1516549550048,
-            "contentHash": "24cb7a4efc7d647bfc4237dadf302821a590b78d"
+            "contentHash": "24cb7a4efc7d647bfc4237dadf302821a590b78d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.design",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1516549351708,
             "changeTime": 1516549351708,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.svg",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1516549351695,
             "changeTime": 1516549351695,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1516549351668,
             "changeTime": 1516549351668,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1516549351676,
             "changeTime": 1516549351676,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderRenderer.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1516549351687,
             "changeTime": 1516549351687,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.auradoc",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1516549331666,
             "changeTime": 1516549331666,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -910,217 +910,217 @@
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 141,
-            "modifiedTime": 1516549447457,
-            "changeTime": 1516549447457,
-            "contentHash": "84670bf5a945c1fc672afc838e8ac1da417a7cc7"
+            "modifiedTime": 1516550751123,
+            "changeTime": 1516550751123,
+            "contentHash": "cc62f321642db5fb06d61e38672167bdd39b5391"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1516549331613,
             "changeTime": 1516549331613,
-            "contentHash": "26b6bf778fc856c5158e336566fb75e5e748812b"
+            "contentHash": "26b6bf778fc856c5158e336566fb75e5e748812b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.css",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1516549331645,
             "changeTime": 1516549331645,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.design",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1516549331671,
             "changeTime": 1516549331671,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.svg",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1516549331659,
             "changeTime": 1516549331659,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1516549331628,
             "changeTime": 1516549331628,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1516549331637,
             "changeTime": 1516549331637,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1516549331651,
             "changeTime": 1516549331651,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.auradoc",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1516548679058,
             "changeTime": 1516548679058,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 63,
             "modifiedTime": 1516548718180,
             "changeTime": 1516548718180,
-            "contentHash": "b1e98d11b8dc9a93a9d2544330dbf3adb311e84c"
+            "contentHash": "b1e98d11b8dc9a93a9d2544330dbf3adb311e84c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 244,
             "modifiedTime": 1516548678942,
             "changeTime": 1516548678942,
-            "contentHash": "30b411b0e92a8d8296a7c89887adfc628c007a75"
+            "contentHash": "30b411b0e92a8d8296a7c89887adfc628c007a75",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.css",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1516548679009,
             "changeTime": 1516548679009,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.design",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1516548679072,
             "changeTime": 1516548679072,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.svg",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeading.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1516548679046,
             "changeTime": 1516548679046,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1516548678970,
             "changeTime": 1516548678970,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1516548678992,
             "changeTime": 1516548678992,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingRenderer.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloHeading\\helloHeadingRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1516548679028,
             "changeTime": 1516548679028,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
