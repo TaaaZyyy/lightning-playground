@@ -48,9 +48,9 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1516549351651,
-            "changeTime": 1516549351651,
-            "contentHash": "97530d2019fd80080d26bfa563a646bd1c65fe58",
+            "modifiedTime": 1516622369826,
+            "changeTime": 1516622369826,
+            "contentHash": "68ba15de48fbb10d5ba9483313ae2d365f4ab8ca",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -59,15 +59,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516549742471,
             "changeTime": 1516549742471,
-            "isWorkspace": true,
-            "contentHash": "2314258f5a632ae1cc38cf35097f0dc26cf1368d"
+            "contentHash": "2314258f5a632ae1cc38cf35097f0dc26cf1368d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -101,10 +101,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
             "isDirectory": false,
-            "size": 60,
-            "modifiedTime": 1516543056966,
-            "changeTime": 1516543056966,
-            "contentHash": "44eef54beec142d82b5697ddf6f676fc6290d88f",
+            "size": 85,
+            "modifiedTime": 1516622869547,
+            "changeTime": 1516622869547,
+            "contentHash": "19c2c4529479d9a4c5ed4576b27c9f12a48b3095",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -219,7 +219,7 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
             "isDirectory": false,
             "size": 86,
-            "modifiedTime": 1516548768115,
+            "modifiedTime": 1516619876233,
             "changeTime": 1516548768115,
             "contentHash": "7a8b87987faae28fe090f4268ee5c6505bd66a2b",
             "isMetadataFile": false,
@@ -905,14 +905,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 141,
             "modifiedTime": 1516550751123,
             "changeTime": 1516550751123,
-            "contentHash": "cc62f321642db5fb06d61e38672167bdd39b5391"
+            "contentHash": "cc62f321642db5fb06d61e38672167bdd39b5391",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1118,6 +1118,396 @@
             "size": 50,
             "modifiedTime": 1516548679028,
             "changeTime": 1516548679028,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516619599817,
+            "changeTime": 1516619599817,
+            "contentHash": "7148dbccc4a1f86f900e3febddd9f64327027f45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516618664620,
+            "changeTime": 1516618664620,
+            "contentHash": "0f5ddf2be267f34f4697230a80cdfaecef7541b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516622369916,
+            "changeTime": 1516622369916,
+            "contentHash": "bfc37d195765b24956535bf4b908389150fb1a71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.auradoc",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516619599812,
+            "changeTime": 1516619599812,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1516623417416,
+            "changeTime": 1516623417416,
+            "contentHash": "ee911f467c60a69e244f7606474de1dc73c7f90f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1516619599775,
+            "changeTime": 1516619599775,
+            "contentHash": "5fafa596b352f7a2297e2ade84219217ebf8896e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516619599794,
+            "changeTime": 1516619599794,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.design",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516619599817,
+            "changeTime": 1516619599817,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.svg",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516619599807,
+            "changeTime": 1516619599807,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516619599781,
+            "changeTime": 1516619599781,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemHelper.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516619599788,
+            "changeTime": 1516619599788,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemRenderer.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516619599801,
+            "changeTime": 1516619599801,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.auradoc",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516618664614,
+            "changeTime": 1516618664614,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1516629501919,
+            "changeTime": 1516629501919,
+            "contentHash": "31f1fefe9c449edb9f745b950af796380ed830d4"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1516618664563,
+            "changeTime": 1516618664563,
+            "contentHash": "0ea061d34e2769a687c177c2f96aa85b19a505c4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.css",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516618664581,
+            "changeTime": 1516618664581,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.design",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516618664620,
+            "changeTime": 1516618664620,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.svg",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516618664593,
+            "changeTime": 1516618664593,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageController.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516618664568,
+            "changeTime": 1516618664568,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageHelper.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516618664575,
+            "changeTime": 1516618664575,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageRenderer.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516618664585,
+            "changeTime": 1516618664585,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.auradoc",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516622369907,
+            "changeTime": 1516622369907,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp",
+            "isDirectory": false,
+            "size": 900,
+            "modifiedTime": 1516623512874,
+            "changeTime": 1516623512874,
+            "contentHash": "cad03cc894edad5e6282dd352e7d95aa6d5dca08",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1516622369837,
+            "changeTime": 1516622369837,
+            "contentHash": "dbbd84f828e8a8ced31c4c66abb5435832fb8acf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.css",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516622369882,
+            "changeTime": 1516622369882,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.design",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516622369916,
+            "changeTime": 1516622369916,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.svg",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlayground.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516622369901,
+            "changeTime": 1516622369901,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundController.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1516622369846,
+            "changeTime": 1516622369846,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundHelper.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516622369865,
+            "changeTime": 1516622369865,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundRenderer.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\helloPlayground\\helloPlaygroundRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516622369890,
+            "changeTime": 1516622369890,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"

@@ -6,9 +6,9 @@
     <p>Silly fun with attributes and expressions.</p>
 
     <h2>List Items</h2>
-    <p><c:helloMessage message="{!v.message[0]}"/></p>
-    <p><c:helloMessage message="{!v.message[1]}"/></p>
-    <p><c:helloMessage message="{!v.message[2]}"/></p>
+    <p><c:helloMessage message="{!v.messages[0]}"/></p>
+    <p><c:helloMessage message="{!v.messages[1]}"/></p>
+    <p><c:helloMessage message="{!v.messages[2]}"/></p>
 
     <h2>List Iteration</h2>
     <aura:iteration items="{!v.messages}" var="msg">
