@@ -3,6 +3,6 @@
 
     <p>{!item.Name + item.Price__c + item.Quantity__c + item.Packed__c}</p>
     <p><lightning:formattedNumber value="{!item.Price__c}" style="currency"/></p>
-    <p><lightning:formattedNumber value="{!item.Quantity__c}" style="decimal"/></p>
+    <p><lightning:formattedNumber value="{!item.Quantity__c}" style="decimal" maximumFractionDigits="0"/></p>
     <p><lightning:input type="toggle" label="Packed?" name="packed" checked="{!item.Packed__c}"/></p>
 </aura:component>	
