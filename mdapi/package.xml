@@ -12,6 +12,7 @@
     <members>helloMessage</members>
     <members>helloPlayground</members>
     <members>helloWorld</members>
+    <members>myEverythingComponent</members>
   </types>
   <types>
     <name>Layout</name>
