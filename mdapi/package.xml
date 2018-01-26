@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>MyContactList</members>
     <members>camping</members>
     <members>campingHeader</members>
     <members>campingList</members>
