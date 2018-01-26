@@ -15,6 +15,10 @@
     <members>myEverythingComponent</members>
   </types>
   <types>
+    <name>ApexClass</name>
+    <members>MyContactListController</members>
+  </types>
+  <types>
     <name>Layout</name>
     <members>Camping_Item__c-Camping Itemレイアウト</members>
     <members>Expense__c-経費レイアウト</members>
