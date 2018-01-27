@@ -8,6 +8,6 @@
 
     <force:recordData aura:id="accountRecord" recordId="{!v.recordId}" targetFields="{!v.Account}" layoutType="FULL"/>
     <lightning:card iconName="standard:contact" title="{!'Contact List for ' + v.Account.Name}">
-        <lightning:datatable data="{!v.Contacts}" columns={!v.Columns} hideCheckboxColumn="true"/>
+        <lightning:datatable data="{!v.Contacts}" columns="{!v.Columns}" hideCheckboxColumn="true"/>
     </lightning:card>
 </aura:component>	
