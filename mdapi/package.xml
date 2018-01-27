@@ -20,6 +20,10 @@
     <members>MyContactListController</members>
   </types>
   <types>
+    <name>FlexiPage</name>
+    <members>Account_Record_Page</members>
+  </types>
+  <types>
     <name>Layout</name>
     <members>Camping_Item__c-Camping Itemレイアウト</members>
     <members>Expense__c-経費レイアウト</members>
