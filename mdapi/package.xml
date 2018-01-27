@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>AccountList</members>
     <members>AllAccounts</members>
     <members>MyContactList</members>
     <members>camping</members>
@@ -18,6 +19,7 @@
   </types>
   <types>
     <name>ApexClass</name>
+    <members>AccountsController</members>
     <members>MyContactListController</members>
   </types>
   <types>
