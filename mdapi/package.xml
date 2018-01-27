@@ -16,6 +16,7 @@
     <members>helloPlayground</members>
     <members>helloWorld</members>
     <members>myEverythingComponent</members>
+    <members>myFirstComponent</members>
   </types>
   <types>
     <name>ApexClass</name>
