@@ -1,7 +1,11 @@
-<aura:application>
+<aura:application extends="force:slds">
 
+  <c:helloMessageInteractive/>
+  <c:campingList/>
+
+  <!--
   <c:myFirstComponent/>
-
+  -->
   <!--
   <aura:attribute name="message" type="String"/>
   <p>Message of the day: {!v.message}</p>
