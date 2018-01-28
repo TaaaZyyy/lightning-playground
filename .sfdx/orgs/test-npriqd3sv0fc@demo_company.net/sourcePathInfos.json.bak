@@ -99,14 +99,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
             "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1517144241985,
+            "changeTime": 1517144241985,
+            "contentHash": "8f0de564aa82f0ae26bfdf2d68d12f6935612a46",
             "isMetadataFile": false,
-            "size": 423,
-            "modifiedTime": 1517144005379,
-            "changeTime": 1517144005379,
-            "contentHash": "11a9e08d7eddd060bd1c12cbdc50d310b0708911"
+            "state": "u"
         }
     ],
     [
@@ -1544,10 +1544,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
             "isDirectory": false,
-            "size": 535,
-            "modifiedTime": 1516633071295,
-            "changeTime": 1516633071295,
-            "contentHash": "1583ff1d28e4ba5bfc57370330cfa1f0bd6ec519",
+            "size": 628,
+            "modifiedTime": 1517145663917,
+            "changeTime": 1517145663917,
+            "contentHash": "0b3f3baf86f16a0e7949d10b8bffb42720dc0b57",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1607,14 +1607,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1516630289233,
-            "changeTime": 1516630289233,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 179,
+            "modifiedTime": 1517145905327,
+            "changeTime": 1517145905327,
+            "contentHash": "c6c55fb62ddbd836e687bf6cbc6f9f2304209fb1"
         }
     ],
     [
