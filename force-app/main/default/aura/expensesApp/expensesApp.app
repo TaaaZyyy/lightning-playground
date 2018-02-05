@@ -1,3 +1,4 @@
 <aura:application extends="force:slds">
-  <c:expenses/>
-</aura:application>	
+  <!-- This component is the real "app" -->
+  <!-- c:expenses/ -->
+</aura:application>

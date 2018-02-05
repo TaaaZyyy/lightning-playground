@@ -1127,16 +1127,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
             "isDirectory": false,
-            "size": 837,
-            "modifiedTime": 1517155540305,
-            "changeTime": 1517155540305,
-            "contentHash": "042b185bc1d400d655b84a5ee83ac7b3e7d810e1",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 3129,
+            "modifiedTime": 1517237844340,
+            "changeTime": 1517237844341,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "c7823586ad903b92269965c9e91aa69cae58f8a4"
         }
     ],
     [
