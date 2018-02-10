@@ -38,4 +38,8 @@
             helper.createExpense(component, newExpense);
         }
     },
+    handleUpdateExpense: function(component, event, helper) {
+        let updateExpense = event.getParam("expense");
+        helper.updateExpense(component, updateExpense);
+    },
 })

@@ -1,6 +1,10 @@
 <aura:component controller="ExpensesController">
 
   <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+  <aura:handler
+      name="updateExpense"
+      event="c:expensesItemUpdate"
+      action="{!c.handleUpdateExpense}"/>
 
   <!-- attributeのtypeにコレクションを使用したい場合は[]を使う。List<Expense__c>は不可 -->
   <aura:attribute name="expenses" type="Expense__c[]"/>

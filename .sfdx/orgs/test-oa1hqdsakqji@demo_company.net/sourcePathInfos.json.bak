@@ -50,9 +50,9 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1518007542101,
-            "changeTime": 1518007542101,
-            "contentHash": "a695777c78321fce711f541d181285a1aa7ff41c",
+            "modifiedTime": 1518254681040,
+            "changeTime": 1518254681040,
+            "contentHash": "6a37678a553c1e5ad7ea6501fc75c5876a8f306e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -762,15 +762,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 763,
             "modifiedTime": 1518231455876,
             "changeTime": 1518231455876,
-            "isWorkspace": false,
-            "contentHash": "8429a17840702a82d9b02136c99bf3c48735f759"
+            "contentHash": "8429a17840702a82d9b02136c99bf3c48735f759",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -970,15 +970,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
             "isDirectory": false,
-            "size": 1277,
-            "modifiedTime": 1518011189735,
-            "changeTime": 1518011189735,
-            "contentHash": "be3965441e8bbd8c76093f28648df425084760cf",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1454,
+            "modifiedTime": 1518262247447,
+            "changeTime": 1518262247447,
+            "isWorkspace": false,
+            "contentHash": "6135096a05d1dd714fe25b274513a9aa1544ed43"
         }
     ],
     [
@@ -1044,15 +1044,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
             "isDirectory": false,
-            "size": 212,
-            "modifiedTime": 1518007444629,
-            "changeTime": 1518007444629,
-            "contentHash": "1349b7e10dbeb32d93704f8fcf4f885918017ce1",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 470,
+            "modifiedTime": 1518261294863,
+            "changeTime": 1518261294863,
+            "isWorkspace": false,
+            "contentHash": "e30ebbcba6f40a45eac51e661ac22605fc668504"
         }
     ],
     [
@@ -3284,10 +3284,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\ExpensesController.cls",
             "isDirectory": false,
-            "size": 1697,
-            "modifiedTime": 1518229666602,
-            "changeTime": 1518229666602,
-            "contentHash": "c82f9bff2b7d6f21e8e8db678de0f718468334eb",
+            "size": 1701,
+            "modifiedTime": 1518260663221,
+            "changeTime": 1518260663221,
+            "contentHash": "4d96f8a821ada18cf718a0d1e2473b1db771ac8c",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -3310,10 +3310,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\CampingListController.cls",
             "isDirectory": false,
-            "size": 966,
-            "modifiedTime": 1518229475200,
-            "changeTime": 1518229475200,
-            "contentHash": "d6b35c50b0b11eea929132c1f137f3c52e1f77e2",
+            "size": 962,
+            "modifiedTime": 1518231759976,
+            "changeTime": 1518231759976,
+            "contentHash": "284b7de05a742a40a8781ad8b91181e97139a52f",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -3327,6 +3327,45 @@
             "modifiedTime": 1518227066362,
             "changeTime": 1518227066362,
             "contentHash": "1e251b33574f8fdcbaa206b1433b5c3cd5aa87dc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518254681048,
+            "changeTime": 1518254681048,
+            "contentHash": "b8690fee91d61419a62152946059600db62e9558",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate\\expensesItemUpdate.evt",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate\\expensesItemUpdate.evt",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1518254798545,
+            "changeTime": 1518254798545,
+            "contentHash": "7255eea6bc4ec8b938ca61ac0badf847ac5c86dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate\\expensesItemUpdate.evt-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expensesItemUpdate\\expensesItemUpdate.evt-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1518254681048,
+            "changeTime": 1518254681048,
+            "contentHash": "f9334249816343245d6fc9032b555f561d71fc02",
             "isMetadataFile": true,
             "state": "u"
         }

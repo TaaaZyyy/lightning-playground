@@ -6,7 +6,7 @@ public with sharing class ExpensesController {
         // check to make sure all fields are accessible to this user
         // describe コールはコストが高くなります。アプリケーションでこのメソッドを頻繁に
         // コールする場合、最適化する方法やユーザごとのアクセスチェックをキャッシュする方法を見つける必要があります。
-        List<String> fieldsToCheck = new List<String> {
+/*        List<String> fieldsToCheck = new List<String> {
             'Id', 'Name', 'Amount__c', 'Client__c', 'Date__c', 'Reimbursed__c', 'CreateDate'
         };
 
@@ -18,7 +18,7 @@ public with sharing class ExpensesController {
                 return null;
             }
         }
-
+*/
         return [
             SELECT
                 Id,

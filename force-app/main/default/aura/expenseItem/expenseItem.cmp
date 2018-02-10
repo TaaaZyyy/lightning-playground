@@ -1,9 +1,19 @@
 <aura:component>
+
+    <aura:registerEvent name="updateExpense" type="c:expensesItemUpdate"/>
+
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:handler name="updateExpense" event="c:expensesItemUpdate" action="{!c.handleUpdateExpense}"/>
+
     <aura:attribute name="formatdate" type="Date"/>
     <aura:attribute name="expense" type="Expense__c"/>
 
-    <lightning:card title="{!v.expense.Name}" iconName="standard:scan_card"
+    <!--
+        slds-cardクラスがつくとslds-themeより優先されてしまい、slds-theme_successが働かない
+        <lightning:card title="{!v.expense.Name}" iconName="standard:scan_card"
+            class="{!v.expense.Reimbursed__c ? 'slds-theme_success' : ''}">
+    -->
+    <article title="{!v.expense.Name}" iconName="standard:scan_card"
             class="{!v.expense.Reimbursed__c ? 'slds-theme_success' : ''}">
         <aura:set attribute="footer">
             <p>
@@ -20,10 +30,15 @@
             Client: {!v.expense.Client__c}
         </p>
         <p>
-            <lightning:input type="toggle" label="Reimbursed?" name="reimbursed"
-                    class="slds-p-around_small" checked="{!v.expense.Reimbursed__c}"
-                    messageToggleActive="Yes" messageToggleInactive="No"
+            <lightning:input
+                    type="toggle"
+                    label="Reimbursed?"
+                    name="reimbursed"
+                    class="slds-p-around_small"
+                    checked="{!v.expense.Reimbursed__c}"
+                    messageToggleActive="Yes"
+                    messageToggleInactive="No"
                     onchange="{!c.clickReimbursed}"/>
         </p>
-    </lightning:card>
+    </article>
 </aura:component>
