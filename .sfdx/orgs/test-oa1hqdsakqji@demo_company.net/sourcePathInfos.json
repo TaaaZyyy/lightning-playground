@@ -970,15 +970,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
             "isDirectory": false,
-            "size": 1743,
-            "modifiedTime": 1518270075101,
-            "changeTime": 1518270075101,
-            "contentHash": "84823dd6cecf3e492c4aec0c9b15f074c2b0c3d0",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1455,
+            "modifiedTime": 1518270475569,
+            "changeTime": 1518270475569,
+            "isWorkspace": false,
+            "contentHash": "ebd230ba8847e1b173142ce416dfb5fbba27354a"
         }
     ],
     [
@@ -999,15 +999,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1518270331791,
             "changeTime": 1518270331791,
-            "isWorkspace": false,
-            "contentHash": "8be1f7c661f5a11988a6dc2a7c4f37d731381058"
+            "contentHash": "8be1f7c661f5a11988a6dc2a7c4f37d731381058",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1117,15 +1117,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
             "isDirectory": false,
-            "size": 1378,
-            "modifiedTime": 1518268157498,
-            "changeTime": 1518268157498,
-            "contentHash": "631f03b429d3200d4330525d8825dd3b16abf15c",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1629,
+            "modifiedTime": 1518270929368,
+            "changeTime": 1518270929368,
+            "isWorkspace": false,
+            "contentHash": "12e47b3e22040d50852d11648636c5809d2ba08d"
         }
     ],
     [
