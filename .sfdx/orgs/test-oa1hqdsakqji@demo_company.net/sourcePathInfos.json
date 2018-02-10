@@ -972,10 +972,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
             "isDirectory": false,
-            "size": 1729,
-            "modifiedTime": 1518266967745,
-            "changeTime": 1518266967745,
-            "contentHash": "3de2dc1558b405c5cbe26ea0dac52b0cfa3c8dc4",
+            "size": 1743,
+            "modifiedTime": 1518270075101,
+            "changeTime": 1518270075101,
+            "contentHash": "84823dd6cecf3e492c4aec0c9b15f074c2b0c3d0",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -999,16 +999,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1516619599794,
-            "changeTime": 1516619599794,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 214,
+            "modifiedTime": 1518270331791,
+            "changeTime": 1518270331791,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "8be1f7c661f5a11988a6dc2a7c4f37d731381058"
         }
     ],
     [
@@ -1206,15 +1205,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesHelper.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1552,
             "modifiedTime": 1518269449528,
             "changeTime": 1518269449528,
-            "isWorkspace": false,
-            "contentHash": "7d5988ff5b8b194ec7a8e5b1ee9538f9fbc266a9"
+            "contentHash": "7d5988ff5b8b194ec7a8e5b1ee9538f9fbc266a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
