@@ -1,9 +1,13 @@
 <aura:application extends="force:slds">
 
+  <c:camping/>
+
+
+ <!--
   <c:helloMessageInteractive/>
   <c:campingList/>
 
-  <!--
+ 
   <c:myFirstComponent/>
   -->
   <!--

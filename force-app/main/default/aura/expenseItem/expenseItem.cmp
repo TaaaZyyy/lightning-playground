@@ -7,7 +7,7 @@
             class="{!v.expense.Reimbursed__c ? 'slds-theme_success' : ''}">
         <aura:set attribute="footer">
             <p>
-                Date: <lightnin:formattedDateTime value="{!.formatdate}"/>
+                Date: <lightning:formattedDateTime value="{!v.formatdate}"/>
             </p>
             <p class="slds-text-title">
                 <lightning:relativeDateTime value="{!v.formatdate}"/>

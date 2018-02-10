@@ -1,22 +1,4 @@
 ({
-    // Load expenses from Salesforce
-    doInit: function(component, event, helper) {
-        // Create the action
-        let action = component.get("c.getExpenses");
-        
-        // Add callback behavior for when response is received
-        action.setCallback(this, function(response) {
-            let state = response.getState();
-            if (state == "SUCCESS") {
-                component.set("v.expenses", response.getReturnValue());
-            } else {
-                console.log("Failed with state: " + state);
-            }
-        });
-
-        //send action off to be excuted
-        $A.enqueueAction(action);
-    },
     clickCreate: function(component, event, helper) {
         // 配列.reduce(コールバック関数, 初期値)
         // 初期値と最初の配列の要素をコールバック関数にかける。その戻り値と次の配列の要素をコールバック関数にかける。繰り返す。

@@ -4,12 +4,15 @@
     <name>AuraDefinitionBundle</name>
     <members>AccountList</members>
     <members>AllAccounts</members>
+    <members>Expenses</members>
     <members>MyContactList</members>
     <members>camping</members>
     <members>campingHeader</members>
     <members>campingList</members>
     <members>campingListItem</members>
     <members>expenseItem</members>
+    <members>expensesApp</members>
+    <members>expensesList</members>
     <members>harnessApp</members>
     <members>helloHeading</members>
     <members>helloMessage</members>
