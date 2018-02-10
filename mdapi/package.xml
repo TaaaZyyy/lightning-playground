@@ -25,6 +25,8 @@
   <types>
     <name>ApexClass</name>
     <members>AccountsController</members>
+    <members>CampingListController</members>
+    <members>ExpensesController</members>
     <members>MyContactListController</members>
   </types>
   <types>

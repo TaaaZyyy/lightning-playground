@@ -1,4 +1,6 @@
-<aura:component>
+<aura:component controller="ExpensesController">
+
+  <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
 
   <!-- attributeのtypeにコレクションを使用したい場合は[]を使う。List<Expense__c>は不可 -->
   <aura:attribute name="expenses" type="Expense__c[]"/>
@@ -51,6 +53,9 @@
                 name="expensename"
                 value="{!v.newExpense.Name}"
                 required="true"/><!-- aura:idが同じであるため、配列として扱える -->
+            <!-- ここの「必須」はコントローラのclickCreateのなかで検証しているが、十分ではない。
+              「データ品質をある程度保護しますが、完璧ではありません。」
+              項目定義を必須にするか、トリガで設定するなどリモート側での設定が必要である -->
             <lightning:input
                 type="number"
                 aura:id="expenseform"

@@ -378,10 +378,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\camping\\camping.cmp",
             "isDirectory": false,
-            "size": 59,
-            "modifiedTime": 1518014620377,
-            "changeTime": 1518014620377,
-            "contentHash": "707813105cdee8012eb2c1b5a6c7d5e19a5b8c74",
+            "size": 89,
+            "modifiedTime": 1518227457023,
+            "changeTime": 1518227457023,
+            "contentHash": "2b69129b17c7819f43bd10cff2966235177ff273",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -527,10 +527,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp",
             "isDirectory": false,
-            "size": 572,
-            "modifiedTime": 1518013075749,
-            "changeTime": 1518013075749,
-            "contentHash": "e64aa422c47bf215ef574ac362ff2d2db40c8022",
+            "size": 546,
+            "modifiedTime": 1518227471268,
+            "changeTime": 1518227471268,
+            "contentHash": "f04d3ab2405f4191f431fbba2a650c0bc7f75a8a",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -676,10 +676,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingList.cmp",
             "isDirectory": false,
-            "size": 2568,
-            "modifiedTime": 1518042472807,
-            "changeTime": 1518042472807,
-            "contentHash": "6680343f712656e0f089c393a80074598d13c2f0",
+            "size": 2674,
+            "modifiedTime": 1518228411538,
+            "changeTime": 1518228411538,
+            "contentHash": "cff623afd4b0404affd99d84548ae6b730b0a327",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -750,10 +750,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListController.js",
             "isDirectory": false,
-            "size": 864,
-            "modifiedTime": 1518042501170,
-            "changeTime": 1518042501170,
-            "contentHash": "c77f26e02e9270b21a5d801adf3198310517f441",
+            "size": 985,
+            "modifiedTime": 1518230486042,
+            "changeTime": 1518230486042,
+            "contentHash": "31ef3a0544fc4cb23ebdbb2e283afe91e6572ba1",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -764,14 +764,13 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1516549331637,
-            "changeTime": 1516549331637,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 763,
+            "modifiedTime": 1518231455876,
+            "changeTime": 1518231455876,
+            "contentHash": "8429a17840702a82d9b02136c99bf3c48735f759",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -824,14 +823,13 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
             "isDirectory": false,
-            "size": 775,
-            "modifiedTime": 1517146332855,
-            "changeTime": 1517146332855,
-            "contentHash": "f65ba60b7d6f4f79f676492b5353dc5f98db9fa0",
+            "size": 708,
+            "modifiedTime": 1518229119375,
+            "changeTime": 1518229119375,
+            "contentHash": "21b18602166cb2a5ded793e12274f2c363eb4617",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1122,10 +1120,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
             "isDirectory": false,
-            "size": 3930,
-            "modifiedTime": 1518130608020,
-            "changeTime": 1518130608020,
-            "contentHash": "bd269fb36d037d5b3061be2d6adb935e8748722e",
+            "size": 4293,
+            "modifiedTime": 1518224974205,
+            "changeTime": 1518224974205,
+            "contentHash": "982d00130417751f581d3e5b45bfe0ed775600e4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1210,10 +1208,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesHelper.js",
             "isDirectory": false,
-            "size": 675,
-            "modifiedTime": 1517933109109,
-            "changeTime": 1517933109109,
-            "contentHash": "b57b08ba8438a18813459cd3606cf3399c9c055c",
+            "size": 1879,
+            "modifiedTime": 1518223662289,
+            "changeTime": 1518223662291,
+            "contentHash": "83ff27b0ee74c9c2c10fba6ce5b1f17112e563a7",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -2708,9 +2706,9 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1518098366489,
-            "changeTime": 1518098366489,
-            "contentHash": "066b37083fd4b1cf5d950d9bbe6cd82cb9fdbc48",
+            "modifiedTime": 1518227066362,
+            "changeTime": 1518227066362,
+            "contentHash": "b9739959a8633928575d35fb9168c04a9518ff12",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -3284,14 +3282,14 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\ExpensesController.cls",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\ExpensesController.cls",
             "isDirectory": false,
+            "size": 1697,
+            "modifiedTime": 1518229666602,
+            "changeTime": 1518229666602,
+            "contentHash": "c82f9bff2b7d6f21e8e8db678de0f718468334eb",
             "isMetadataFile": false,
-            "size": 1298,
-            "modifiedTime": 1518184190590,
-            "changeTime": 1518184190590,
-            "contentHash": "daf07773bac232cf37b04dbd9f13b5145751dceb"
+            "state": "u"
         }
     ],
     [
@@ -3303,6 +3301,32 @@
             "modifiedTime": 1518098366489,
             "changeTime": 1518098366489,
             "contentHash": "419cf56084b7322b76d6e07053008c2f44221903",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\CampingListController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\CampingListController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 962,
+            "modifiedTime": 1518231759976,
+            "changeTime": 1518231759976,
+            "contentHash": "284b7de05a742a40a8781ad8b91181e97139a52f"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\CampingListController.cls-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\class\\CampingListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1518227066362,
+            "changeTime": 1518227066362,
+            "contentHash": "1e251b33574f8fdcbaa206b1433b5c3cd5aa87dc",
             "isMetadataFile": true,
             "state": "u"
         }
