@@ -50,9 +50,9 @@
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1518254681040,
-            "changeTime": 1518254681040,
-            "contentHash": "6a37678a553c1e5ad7ea6501fc75c5876a8f306e",
+            "modifiedTime": 1518266800069,
+            "changeTime": 1518266800069,
+            "contentHash": "8c26ba484aecb778ce46428fd1507e2fc51be3da",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -970,15 +970,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
             "isDirectory": false,
+            "size": 1729,
+            "modifiedTime": 1518266967745,
+            "changeTime": 1518266967745,
+            "contentHash": "3de2dc1558b405c5cbe26ea0dac52b0cfa3c8dc4",
             "isMetadataFile": false,
-            "size": 1454,
-            "modifiedTime": 1518262247447,
-            "changeTime": 1518262247447,
-            "isWorkspace": false,
-            "contentHash": "6135096a05d1dd714fe25b274513a9aa1544ed43"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1044,15 +1044,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 470,
             "modifiedTime": 1518261294863,
             "changeTime": 1518261294863,
-            "isWorkspace": false,
-            "contentHash": "e30ebbcba6f40a45eac51e661ac22605fc668504"
+            "contentHash": "e30ebbcba6f40a45eac51e661ac22605fc668504",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1120,10 +1120,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\Expenses.cmp",
             "isDirectory": false,
-            "size": 4293,
-            "modifiedTime": 1518224974205,
-            "changeTime": 1518224974205,
-            "contentHash": "982d00130417751f581d3e5b45bfe0ed775600e4",
+            "size": 1378,
+            "modifiedTime": 1518268157498,
+            "changeTime": 1518268157498,
+            "contentHash": "631f03b429d3200d4330525d8825dd3b16abf15c",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1194,10 +1194,10 @@
         {
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesController.js",
             "isDirectory": false,
-            "size": 2391,
-            "modifiedTime": 1518100528920,
-            "changeTime": 1518100528920,
-            "contentHash": "457b43623ecab09e4eee22e121069a0d3501106b",
+            "size": 1005,
+            "modifiedTime": 1518268241685,
+            "changeTime": 1518268241685,
+            "contentHash": "028eb1753da147710aac3ea28a85858c3ca1bd82",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1206,15 +1206,15 @@
     [
         "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesHelper.js",
         {
+            "state": "u",
             "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\Expenses\\ExpensesHelper.js",
             "isDirectory": false,
-            "size": 1879,
-            "modifiedTime": 1518223662289,
-            "changeTime": 1518223662291,
-            "contentHash": "83ff27b0ee74c9c2c10fba6ce5b1f17112e563a7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1558,
+            "modifiedTime": 1518269243817,
+            "changeTime": 1518269243817,
+            "isWorkspace": false,
+            "contentHash": "786598b5c68189db4686e2856d6209f54681c104"
         }
     ],
     [
@@ -3367,6 +3367,136 @@
             "changeTime": 1518254681048,
             "contentHash": "f9334249816343245d6fc9032b555f561d71fc02",
             "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518266800141,
+            "changeTime": 1518266800141,
+            "contentHash": "666e09aee634a98fb1e800c3edad0c995313413a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.auradoc",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1518266800135,
+            "changeTime": 1518266800135,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.cmp",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.cmp",
+            "isDirectory": false,
+            "size": 3018,
+            "modifiedTime": 1518268818335,
+            "changeTime": 1518268818335,
+            "contentHash": "34317775c49d8b97f0ad546ee63a2af2f041a4ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1518266800088,
+            "changeTime": 1518266800088,
+            "contentHash": "df4abcffe19ba46c0f5ccb781570131913657331",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.css",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1518266800116,
+            "changeTime": 1518266800116,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.design",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1518266800141,
+            "changeTime": 1518266800141,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.svg",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseForm.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1518266800129,
+            "changeTime": 1518266800129,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormController.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormController.js",
+            "isDirectory": false,
+            "size": 1753,
+            "modifiedTime": 1518267021996,
+            "changeTime": 1518267021996,
+            "contentHash": "62487c4f9d7d4ff533f3a26de38270979e5e6acd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormHelper.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormHelper.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1518268466829,
+            "changeTime": 1518268466829,
+            "contentHash": "1d0ac962852bdc5c81f05cf8e575c6a65c5eaca8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormRenderer.js",
+        {
+            "sourcePath": "D:\\tajima_takashi\\sf_project\\lightning-components-basics\\force-app\\main\\default\\aura\\expenseForm\\expenseFormRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1518266800121,
+            "changeTime": 1518266800121,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
             "state": "u"
         }
     ]

@@ -1,6 +1,7 @@
 ({
     createExpense: function(component, expense) {
-        saveExpense(component, expense, function(response) {
+        // 同じJSファイル内のメソッドを使用するときはthisをつける
+        this.saveExpense(component, expense, function(response) {
             let state = response.getState();
             if (state === "SUCCESS") {
                 let expenses = component.get("v.expenses");
@@ -12,8 +13,8 @@
         });
     },
     
-    updateExpense: function(component, updateExpense) {
-        saveExpense(component, expense);
+    updateExpense: function(component, expense) {
+        this.saveExpense(component, expense);
     },
 
     // callbackは省略可能な引数
@@ -22,7 +23,7 @@
         // Apexのメソッドからアクションオブジェクトを作成
         let action = component.get("c.saveExpense");
         // パラメータ名はApexメソッドの仮引数名と一致していること
-        action.setParams({'expense': updateExpense});
+        action.setParams({'expense': expense});
         if (callback) {
             // サーバーからレスポンスが帰ってきたときの処理
             action.setCallback(this, callback);
