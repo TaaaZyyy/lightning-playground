@@ -11,6 +11,7 @@
         });
         $A.enqueueAction(action);
     },
+
     clickCreateItem: function(component, event, helper) {
         let validFormItem = component.find('campingitemform').reduce(function(validSoFar,inputElement) {
             inputElement.showHelpMessageIfInvalid();
