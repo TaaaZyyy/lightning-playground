@@ -1,9 +1,4 @@
 <aura:component>
     <c:campingHeader/>
-
-    <lightning:layout>
-        <lightning:layoutItem padding="around-small" size="6">
-            <c:campingList/>
-        </lightning:layoutItem>
-    </lightning:layout>
+    <c:campingList/>
 </aura:component>	

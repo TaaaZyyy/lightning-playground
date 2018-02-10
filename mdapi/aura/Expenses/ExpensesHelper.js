@@ -1,14 +1,7 @@
 ({
     createExpense: function(component, expense) {
-        // サーバー側の処理
-        // Apexのメソッドからアクションオブジェクトを作成
-        let action = component.get("c.saveExpense");
-        action.setParams({
-            // パラメータ名はApexメソッドの仮引数名と一致していること
-            "expense": expense
-        });
-        // サーバーからレスポンスが帰ってきたときの処理
-        action.setCallback(this, function(response) {
+        // 同じJSファイル内のメソッドを使用するときはthisをつける
+        this.saveExpense(component, expense, function(response) {
             let state = response.getState();
             if (state === "SUCCESS") {
                 let expenses = component.get("v.expenses");
@@ -18,20 +11,24 @@
                 component.set("v.expenses", expenses);
             }
         });
+    },
+    
+    updateExpense: function(component, expense) {
+        this.saveExpense(component, expense);
+    },
+
+    // callbackは省略可能な引数
+    saveExpense: function(component, expense, callback) {
+        // サーバー側の処理
+        // Apexのメソッドからアクションオブジェクトを作成
+        let action = component.get("c.saveExpense");
+        // パラメータ名はApexメソッドの仮引数名と一致していること
+        action.setParams({'expense': expense});
+        if (callback) {
+            // サーバーからレスポンスが帰ってきたときの処理
+            action.setCallback(this, callback);
+        }
         // リモートアクションとコールバック処理をキューに加える
         $A.enqueueAction(action);
-
-
-
-        //        let theExpenses = component.get("v.expenses");
-        // Copy the expense to a new object
-        // THIS IS A DISGUSTING, THEMPORARY HACK
-        // 上記処理を書き加える前の一時的なコード
-//        let newExpenses = JSON.parse(JSON.stringify(expense));
-//        console.log("Expenses before 'create': " + JSON.stringify(theExpenses));
-//        theExpenses.push(newExpenses);
-        // ここではv.expensesの値を空更新することで、v.expensesを使用したすべての場所に更新をカスケードする。
-//        component.set("v.expenses", theExpenses);
-//        console.log("Expenses after 'create': " + JSON.stringify(theExpenses));
-    },
+    }
 })

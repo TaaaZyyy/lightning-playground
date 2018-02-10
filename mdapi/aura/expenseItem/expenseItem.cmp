@@ -1,5 +1,9 @@
 <aura:component>
+
+    <aura:registerEvent name="updateExpense" type="c:expensesItemUpdate"/>
+
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
     <aura:attribute name="formatdate" type="Date"/>
     <aura:attribute name="expense" type="Expense__c"/>
 
@@ -20,9 +24,14 @@
             Client: {!v.expense.Client__c}
         </p>
         <p>
-            <lightning:input type="toggle" label="Reimbursed?" name="reimbursed"
-                    class="slds-p-around_small" checked="{!v.expense.Reimbursed__c}"
-                    messageToggleActive="Yes" messageToggleInactive="No"
+            <lightning:input
+                    type="toggle"
+                    label="Reimbursed?"
+                    name="reimbursed"
+                    class="slds-p-around_small"
+                    checked="{!v.expense.Reimbursed__c}"
+                    messageToggleActive="Yes"
+                    messageToggleInactive="No"
                     onchange="{!c.clickReimbursed}"/>
         </p>
     </lightning:card>

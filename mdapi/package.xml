@@ -6,12 +6,16 @@
     <members>AllAccounts</members>
     <members>Expenses</members>
     <members>MyContactList</members>
+    <members>addItemEvent</members>
     <members>camping</members>
     <members>campingHeader</members>
     <members>campingList</members>
+    <members>campingListForm</members>
     <members>campingListItem</members>
+    <members>expenseForm</members>
     <members>expenseItem</members>
     <members>expensesApp</members>
+    <members>expensesItemUpdate</members>
     <members>expensesList</members>
     <members>harnessApp</members>
     <members>helloHeading</members>

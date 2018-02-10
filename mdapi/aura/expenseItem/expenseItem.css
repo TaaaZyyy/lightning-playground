@@ -1,2 +1,9 @@
-.THIS {
+.THIS.slds-theme_success {
+    background-color: rgb(4, 132, 75) !important;
+}
+.THIS.slds-theme_success .slds-form-element__label {
+    color: #fff;
+}
+.THIS.slds-theme_success .slds-text-title {
+    color: #fff;
 }

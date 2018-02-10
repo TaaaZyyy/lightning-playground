@@ -1,4 +1,4 @@
 <aura:component>
     <c:campingHeader/>
-    <h1><c:campingList/></h1>
+    <c:campingList/>
 </aura:component>	
