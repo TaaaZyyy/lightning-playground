@@ -1,5 +1,6 @@
 <aura:component implements="flexipage:availableForRecordHome, force:hasRecordId">
 <!-- inherit recordId attribute -->
+<!-- accountのレコードページで使用 -->
 
   <aura:attribute name="record" type="Object"/>
   <aura:attribute name="simpleRecord" type="Object"/>
@@ -35,7 +36,7 @@
       <div class="slds-p-horizontal_small">
         <lightning:input label="Accout Name" value="{!v.simpleRecord.Name}"/>
         <br/>
-        <lightning:button label="Save Account" variant="brand" onclick="{!c.hanleSaveRecord}"/>
+        <lightning:button label="Save Account" variant="brand" onclick="{!c.handleSaveRecord}"/>
       </div>
     </lightning:card>
   </div>
