@@ -27,8 +27,10 @@
     <members>helloPlayground</members>
     <members>helloWorld</members>
     <members>ldsDisplayRecord</members>
+    <members>ldsEditContact</members>
     <members>ldsNewRecord</members>
     <members>ldsSaveRecord</members>
+    <members>ldsShowContact</members>
     <members>myEverythingComponent</members>
     <members>myFirstComponent</members>
   </types>

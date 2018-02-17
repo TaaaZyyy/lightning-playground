@@ -1,0 +1,22 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId">
+
+  <aura:attribute name="contactRecord" type="Object"/>
+  <aura:attribute name="recordSaveError" type="String" default=""/>
+
+  <!-- Load record in EDIT mode -->
+  <force:recordData
+      aura:id="recordLoader"
+      recordId="{!v.recordId}"
+      fields="Name,Description,Phone,Industry"
+      targetFields="{!v.contactRecord}"
+      targetError="{!v.recordSaveError}"
+      mode="EDIT"
+      recordUpdated="{!c.handleRecordUpdated}"/>
+
+  <!-- Display error message -->
+  <aura:if isTrue="{!not(empty(v.recordSaveError))}">
+    <div class="recordSaveError">
+      {!v.recordSaveError}
+    </div>
+  </aura:if>
+</aura:component>

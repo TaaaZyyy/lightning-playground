@@ -2,7 +2,7 @@
 <!-- Account Record -->
 
   <aura:attribute name="accountRecord" type="Object"/>
-  <aura:attribute name="recordError" type="String"/>
+  <aura:attribute name="recordSaveError" type="String" default=""/>
 
   <force:recordData
       aura:id="editRecord"
@@ -10,7 +10,8 @@
       layoutType="FULL"
       mode="EDIT"
       targetFields="{!v.accountRecord}"
-      targetError="{!v.recordError}"/>
+      targetError="{!v.recordSaveError}"
+      recordUpdated="{!c.handleRecordUpdated}"/>
 
   <!-- Edit Account -->
   <div class="Record Ecit">
@@ -25,5 +26,12 @@
       </div>
     </lightning:card>
   </div>
+
+  <!-- Display Error Message -->
+  <aura:if isTrue="{!not(empty(v.recordSaveError))}">
+    <div class="recordError">
+      {!v.recordSaveError}
+    </div>
+  </aura:if>
 
 </aura:component>
