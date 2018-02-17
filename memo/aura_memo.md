@@ -1,3 +1,35 @@
+LDS
+## 主な原則
+CSSを書くことなく、SalesforceUIに準拠したデザインを使用できる。
+### バンドル
+- CSSフレームワーク
+    - ページヘッダ、ラベル、フォーム、グリッドレイアウトシステム、ヘルパークラス
+- アイコン
+- フォント
+- デザイントークン
+### 4つの開発思想
+1. 透明性: ユーザが必要な情報を簡単に見つけられること。
+2. 効率性: ワークフローの合理化と最適化。行動を促す。
+3. 一貫性
+4. 美しさ
+### 使用可能箇所
+- Visualforce: ただし現段階では `<apex>` との互換性はない。
+- Lightningコンポーネント
+- Mobile SDK
+- スタンドアロンWebアプリケーション（Heroku上のなど）
+
+## 使い始める
+
+
+
+## グリッドシステムの理解
+## Salesforceデータの操作
+## 画像、アイコン、アバターの使用
+## レコードページをレイアウトし、高度なコンポーネントを使用する
+
+
+
+
 ## aura:component の implements
 - flexipage:availableForRecordHome
 - force:hasRecordId
@@ -99,7 +131,7 @@ HTML、CSS、javascript
 
 ### Lightning 基本コンポーネント
 
-### Field Service Lightning 
+### Field Service Lightning
 ### Lightning Design System
 cssフレームワーク。Salesforceの提供サービスが利用しているデザインを利用できる。商用可。
 積極的に使う。独自のCSSスタイルは最終手段的に限定された特別なケースでのみ使用。
@@ -214,7 +246,7 @@ Lightning Experience または Salesforce アプリケーションでコンポ�
 1. https://www.lightningdesignsystem.com/ から使用したいコンポネントを見つける
 2. 使用箇所にコメントでLDSを使用する旨を記載する（保守開発を用意にするため）
 
-``` 
+```
 <!--
     Lightning Design System の data table を使用する
     https://www.lightningdesignsystem.com/components/data-tables/
@@ -237,7 +269,7 @@ Lightning Experience または Salesforce アプリケーションでコンポ�
 console.log('someVariable: ' + JSON.stringify(someVariable));
 ```
 
-### Salesforce Lightning Inspector 
+### Salesforce Lightning Inspector
 [Salesforce Lightning Inspector](https://developer.salesforce.com/docs/atlas.ja-jp.210.0.lightning.meta/lightning/inspector_use.htm)
 コンポーネント間のやりとりを診断するとき => [Event Log (イベントログ)] タブ
 サーバ要求の問題を診断するとき => [Actions (アクション)] タブ
@@ -364,7 +396,7 @@ SVG
 <aura:component controller="AccountsController">
     <aura:attribute name="accounts" action="{!c.doInit}"/>
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
-</aura:component>	
+</aura:component>
 
 ```
 
@@ -390,7 +422,7 @@ Salesforce固有のコンポーネント
 
 
 コントローラ JavaScript コードで属性値を取得および設定するには get メソッドと setメソッドを使用します。
- 
+
 
 
 コンポーネントの属性の値を他のコンポーネントが操作できないようにするには、属性を private にします。そうしない場合は、属性がコンポーネントの公開 API の一部になります。
@@ -418,5 +450,3 @@ Lightning コンポーネントフレームワークは、Visualforce のこれ�
 
 
 Lightning コンポーネントコントローラのコードはクライアント側で実行されますが、データはサーバ側に保存されます。キャッシュがない場合、新しいデータが必要になるたびに何らかのサーバ要求を行うことになります。それはおそらく、Visualforce コントローラであれば記述することがなかったコードです。
-
-

@@ -5,7 +5,10 @@
     <members>AccountList</members>
     <members>AllAccounts</members>
     <members>Expenses</members>
+    <members>IdsDeleteRecord</members>
     <members>MyContactList</members>
+    <members>accDisplay</members>
+    <members>accEdit</members>
     <members>addItemEvent</members>
     <members>camping</members>
     <members>campingHeader</members>
@@ -23,6 +26,11 @@
     <members>helloMessageInteractive</members>
     <members>helloPlayground</members>
     <members>helloWorld</members>
+    <members>ldsDisplayRecord</members>
+    <members>ldsEditContact</members>
+    <members>ldsNewRecord</members>
+    <members>ldsSaveRecord</members>
+    <members>ldsShowContact</members>
     <members>myEverythingComponent</members>
     <members>myFirstComponent</members>
   </types>
@@ -36,6 +44,7 @@
   <types>
     <name>FlexiPage</name>
     <members>Account_Record_Page</members>
+    <members>trail_ids</members>
   </types>
   <types>
     <name>Layout</name>
