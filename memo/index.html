@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+    <meta charset="utf-8">
+    <title>lessons</title>
+</head>
+<body>
+    <p>JavaScript入門の補助資料になります。<br />詳細はソースコードを御覧ください。</p>
+    <p>初回生放送時の内容からアップデートしたバージョンになりますので、軽微ながら、表記に違いがございます。予めご了承下さい。</p>
+    <p>更新履歴</p>
+    <ul>
+        <li>ver 1.0 2014/12/21 Lesson01〜15まで記述、公開</li>
+        <li>ver 1.1: 2014/12/23　誤記修正 及び Lesson16〜21追記</li>
+    </ul>
+    <script>
+// 更新日:   ver 1.1: 2014/21/21
+// 書いた人: スクープログラミング担当
+
+/* 目次
+ * Lesson01: JavaScriptを書く場所
+ * Lesson02: コメントの書き方
+ * Lesson03: コンソールログの出力方法
+ * Lesson04: 変数
+ * Lesson05: データ型
+ * Lesson06: 算術演算子
+ * Lesson07: 結合演算子
+ * Lesson08: 条件分岐 (if文)
+ * Lesson09: 条件の書き方
+ * Lesson10: 条件分岐 (条件演算子(=三項演算子))
+ * Lesson11: 条件分岐 (switch)
+ * Lesson12: 配列
+ * Lesson13: 繰り返し処理 (while)
+ * Lesson14: 繰り返し処理 (do while)
+ * Lesson15: 繰り返し処理 (for)
+ * Lesson16: 関数
+ * Lesson17: 無名関数
+ * Lesson18: 即時関数
+ * Lesson19: オブジェクト
+ * Lesson20: DOM操作
+ * Lesson21: イベント
+ */
+
+/*
+Lesson01: JavaScriptを書く場所
+  JavaScriptのプログラムは</body>の前に<script><script>で囲まれた間に書きます。
+  まさにこの場所が、JavaScriptのプログラムを書く場所になります。
+  <script src="ファイルパス"><script>で、別のファイルに書いて読み込む事も出来ます。
+
+
+Lesson02: コメントの書き方
+  プログラムの動作に影響しないメモ書きを『コメント』といいます。
+  コメントを書くには、は行頭にスラッシュ2個(//)をつけます。
+  スラッシュ(/)とアスタリスク(*)で囲むと複数行のコメントを書くことも出来ます。  
+
+// Example:
+    // ここはコメントになります
+    /* 
+        ココは
+        複数行の
+        コメントになります
+    */ 
+/*
+
+
+Lesson03: コンソールログの出力方法
+  console.log(引数)で、ログを出力することが出来ます。
+  ログは、プログラムがどこまで実行されたか確認するのに便利です。
+
+// Example:
+    console.log("Hello World");
+
+
+Lesson04: 変数
+  データに名前をつけて扱うための箱のようなものです。
+  変数は宣言してから使うことが出来ます。
+
+// Example: 変数宣言の方法①
+    var name; // nameの部分は好きな名前でOK
+
+// Example: 変数宣言の方法 (宣言と同時に代入)
+    var name = 'すくーにゃ'; 
+    
+// Example: 変数宣言の方法③ (複数同時に宣言)
+    var name = 'すくーにゃ', var work = 'schoo'; 
+
+
+Lesson05: データ型
+  JavaScriptで扱えるデータにはいくつかの種類(型)があります。
+    - 数値         ... 10, -100, 0.53 等
+    - 文字列       ... "hoge", 'foo', "bar" 等
+    - 真偽値       ... true / false
+    - undefined   ... 未定義 
+    - null        ... 何も無い
+    - オブジェクト  ... 上記以外の型。関数、配列 など
+    
+
+Lesson06: 算術演算子
+  JavaScriptで数値を演算する際に用います
+    +     ...加算
+    -     ...減算
+    *     ...乗算
+    /     ...除算
+    %     ...除算の余り
+    ++    ...インクリメント
+    --    ...デクリメント
+
+
+Lesson07: 結合演算子
+  JavaScriptで文字列を結合する際に用います
+    +     ...文字を結合する
+
+// Example:
+    var name = "すくーにゃ";
+    console.log(name + "大好き"); 
+
+
+Lesson08: 条件分岐 (if文)
+    if (条件) {
+        条件が真の際に実行される処理
+    } else {
+        条件が偽の際に実行される処理
+    }
+
+// Example:
+    var age = 10;
+    var minAge = 10;
+    if (age < minAge) {
+        console.log('対象年齢です');
+    } else {
+        console.log('対象年齢です');
+    }
+
+
+Lesson09: 条件の書き方
+  1. 真偽値
+    - 文字列       ... 空文字以外なら真
+    - 数値         ... 0かNaN以外なら真
+    - 真偽値       ... true なら真
+    - undefined   ... 偽
+    - null        ... 偽
+    - オブジェクト  ... null以外なら真
+  2. 比較演算子
+    A > B         ... AよりBが大きい
+    A < B         ... AがBより小さい
+    A >= B        ... AがB以上
+    A <= B        ... AがB以下
+    A == B        ... AはBと同じ
+    A === B       ... AはBと同じ(厳密に比較)
+    A != B        ... AはBと異なる
+    A !== B       ... AはBと異なる(厳密に比較)
+  3. 論理演算子
+    A && B        ... AとBが真
+    A || B        ... A又はBが真
+    !A            ... Aが真でない
+
+
+Lesson10: 条件分岐 (条件演算子(=三項演算子))
+  結果 = (条件) ? 条件が真の場合に返す結果 : 条件が偽の場合に返す結果
+
+// Example:
+    // 値の初期化
+    var a = 0, b = 1, c = 2;
+    
+    // 条件演算子の使用例
+    a = (a != b) ? b : c;
+
+    //上記は下記if文と同じ意味
+    if (a != b){
+        a = b;
+    } else {
+        a = c;
+    }
+
+
+Lesson11: 条件分岐 (switch)
+  値に応じて条件分岐を複数用意したいときに用います。
+
+// Example:
+    var flg = 1;
+    switch(flg) {
+        case 1:
+            console.log('flgは1');
+            break;
+        case 2:
+            console.log('flgは2');
+        default:
+            console.log('デフォルトで実行');
+            break
+    }
+
+
+Lesson12: 配列
+  順序を持つ複数のデータの集合です。
+  
+// Example:
+    var names = ["taro", "jiro", "saburo"];
+    console.log(names);
+    console.log(names[0]);
+
+
+Lesson13: 繰り返し処理 (while)
+  条件が、真の間、処理が繰り返されます。
+  while(条件) {
+    // 実行される処理
+  }
+
+// Example:
+    var i = 0;
+    while(i <= 10) {
+        console.log("ok");
+        i++
+    }  
+
+
+Lesson14: 繰り返し処理 (do while)
+  1度実行された後、条件が、真の間、処理が繰り返されます。
+  whileと違い、1度目は必ず実行されます。
+
+// Example:
+    var i = 0;
+    do {
+        console.log("ok");
+        i++
+    } while(i <= 10);
+
+
+Lesson15: 繰り返し処理 (for)
+  初期値からスタートして、条件が真の間処理が繰り返されます。
+  for(初期値; 条件; 初期値の変更) {
+    // 実行する処理
+  }
+
+// Example:
+    var names = ["taro", "jiro", "saburo"];
+    for (var i = 0; i < 3; i++) {
+        console.log(names[i]);
+    }
+
+
+Lesson16: 関数
+  一連の処理に名前をつけて、簡単に呼び出せるようにしたものです。
+
+    function 関数名(引数1,引数2 ...){
+        // ここに実行したい処理を書く
+        // 返り値 return;
+       // 関数内で宣言した変数は関数内でしか有効でない(=ローカル変数)
+    }
+
+// Example:
+    function getText(name){
+        console.log('第一引数 name に定型文を付与して返却します');
+        console.log('学生代表の' + name + 'です！');
+    };
+
+
+Lesson17: 無名関数
+  下記のように変数に代入することで、関数名を省略することができます。
+
+// Example:
+    var getText = function(name){
+        console.log('第一引数 name に定型文を付与して返却します');
+        console.log('学生代表の' + name + 'です！');
+    };
+
+
+Lesson18: 即時関数
+  下記のように書くと、関数を定義と同時に実行することができます。
+
+// Example:
+    (function(name){
+        console.log('第一引数 name に定型文を付与して返却します');
+        console.log('学生代表の' + name + 'です！');
+    })();
+
+※ 即時関数は名前を省略してもOKです。
+※ 即時関数の中にプログラムを書くことで、変数をローカルにでき、変数変更の影響範囲を狭めることができます。
+
+
+Lesson19: オブジェクト
+  名前とデータの組み合わせでデータを管理できるようにした物です。
+
+// Example:
+    var user = {
+        name: "suzuki",
+        height: 160,
+        age: 22,
+        printName: function(){
+            console.log(this.name)
+        }
+    };
+
+    console.log(user);
+    console.log(user.name);
+    user.printName();
+
+※ オブジェクトの持つデータをプロパティといいます。
+※ オブジェクトの持つ関数をメソッドといいます。
+
+
+Lesson20: DOM操作
+  Document Object Model の略で
+  Webページの要素にアクセスする仕組みのことです。
+
+  ただし、仕組みがブラウザ毎に異なったりします...
+  → JQuery等のライブラリを使うと、ブラウザの違いを吸収してくれます。
+
+// Example:
+    // window オブジェクトの取得
+    console.log('縦:' + window.outerHeight);
+    console.log('横:' + window.outerWidth);
+    
+    // 要素の取得
+    var button = document.getElementById("button");
+    button.value = 'クリックしたよ';
+    
+    // 要素の作成
+    var hello = document.createElement("p");
+    var text  = document.createTextNode("スクープログラミング担当の岩田です");
+    document.body.appendChild(hello).appendChild(text);
+
+
+Lesson21: イベント
+  プログラムが動く起点をイベントといいます。
+  下記では、イベントに対するプログラムの登録方法を示します。
+
+// Example:
+    // クリックした時に指定した関数を実行
+    //---HTML部分---//
+    <input type="button" id="button" value="ここをクリック！" onClick="check()">
+    //---JS部分---//
+    function check(){
+        console.log('ボタンを押したよ！');
+    }
+
+    // イベントに関数を登録する (こちらの方式ではひとつのイベントに複数の登録が可能)
+    document.getElementById("button").addEventListener("click", check);
+    function check() {
+        // ここに実行したい処理
+        console.log('クリックしたよ');
+    }
+*/
+    </script>
+</body>
+</html>
