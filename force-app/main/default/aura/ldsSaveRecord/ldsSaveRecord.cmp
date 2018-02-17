@@ -18,7 +18,7 @@
   <div class="Record Details">
     <lightning:card iconName="standard:account" title="{!v.simpleRecord.Name}">
       <div class="slds-p-horizontal_small">
-        <p class-"slds-text-heading_small">
+        <p class="slds-text-heading_small">
           <lightning:formattedText title="Billing State" value="{!v.simpleRecord.BillingState}"/>
         </p>
         <p>

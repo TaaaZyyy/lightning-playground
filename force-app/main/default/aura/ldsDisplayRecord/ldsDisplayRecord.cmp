@@ -1,7 +1,7 @@
 <aura:component implements="flexipage:availableForRecordHome, force:hasRecordId">
 <!-- inherit recordId attribute -->
 
-  <aura:attribute name="record" type="Object" describe="The record object to be displayed"/>
+  <aura:attribute name="record" type="Object" description="The record object to be displayed"/>
   <aura:attribute name="simpleRecord" type="Object" description="A simpleified view record object to be displayed"/>
   <aura:attribute name="recordError" type="String" description="An error message bound to force:recordData"/>
 
@@ -19,8 +19,10 @@
       <div class="slds-p-horizontal_small">
         <p class="slds-text-heading_small">
           <lightning:formattedText title="Billing City" value="{!v.simpleRecord.BillingCity}"/>
+        </p>
         <p class="slds-text-heading_small">
           <lightning:formattedText title="Billing State" value="{!v.simpleRecord.BillingState}"/>
+        </p>
       </div>
     </lightning:card>
   </div>
