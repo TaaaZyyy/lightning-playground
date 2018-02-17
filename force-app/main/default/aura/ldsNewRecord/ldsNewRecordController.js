@@ -10,8 +10,8 @@
       null, // recordTypeId
       false, // skip cache?
       $A.getCallback(function() {
-        var rec = component.get("v.newContact");
-        var error = component.get("v.newContactError");
+        let rec = component.get("v.newContact");
+        let error = component.get("v.newContactError");
         if (error || (rec === null)) {
           console.log("Error initializing record template: " + error);
         } else {

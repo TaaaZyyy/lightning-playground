@@ -7,7 +7,7 @@
         event.preventDefault();
 
         // フォームから値を取得する
-        var accountName = event.target.getElementsByClassName('account-name')[0].value;
+        let accountName = event.target.getElementsByClassName('account-name')[0].value;
         confirm('取引先 ' + accountName + ' を削除してもよろしいですか？');
     },
 })
