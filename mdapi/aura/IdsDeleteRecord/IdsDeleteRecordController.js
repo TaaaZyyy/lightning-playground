@@ -1,6 +1,6 @@
 ({
   handleDeleteRecord: function(component, event, helper) {
-    component.find("recordHandler").delteRecord($A.getCallback(function(deleteResult) {
+    component.find("recordHandler").deleteRecord($A.getCallback(function(deleteResult) {
       // DRAFTは回線の接続待ち。（組織でオフラインドラフトを有効しているまたは非同期保存の権限を有効にしている場合）
       if (deleteResult.state === "SUCCESS" || deleteResult.state === "DRAFT") {
         console.log("Record is deleted.");
@@ -11,7 +11,7 @@
         });
         resultsToast.fire();
       } else if (deleteResult.state === "INCOMPLETE") {
-        console.log("User is offline, device dosen't support drafts.");
+        console.log("User is offline, device doesn't support drafts.");
       } else if (deleteResult.state === "ERROR") {
         console.log('Problem deleting record, error: ' +
             JSON.stringify(deleteResult.error));

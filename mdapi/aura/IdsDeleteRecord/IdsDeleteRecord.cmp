@@ -1,10 +1,12 @@
 <aura:component implements="flexipage:availableForRecordHome,force:hasRecordId">
+<!-- accountのレコードページで使用 -->
+<!-- このままだと、削除後にページにとどまってしまう。 -->
 
   <aura:attribute name="recordError" type="String" access="private"/>
 
   <force:recordData
       aura:id="recordHandler"
-      recordId="P!v.recordId}"
+      recordId="{!v.recordId}"
       fields="Id"
       targetError="{!v.recordError}"/>
 
