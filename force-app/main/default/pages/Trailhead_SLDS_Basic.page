@@ -6,18 +6,22 @@
     applyBodyTag="false"
     docType="html-5.0">
 
-<html>
+
+<!-- xmlnsの記述はVisualforceでSVG icon sprite mapsを使用するのに必要 -->
+<!-- この指定にはsidebar、showHeaderがfalseである必要がある -->
+<html xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" lang="en">
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" /> <!-- IEの場合、最新バージョンの標準モードで表示 -->
   <title>Salesforce Lightning Design System Trailhead Module</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- viewportをデバイスの幅の1倍に合わせる -->
 
-  <!-- Import the Design System style sheet -->
+  <!-- LSDSのCSSをインポート -->
   <apex:slds />
 </head>
 <body>
   <!-- REQUIRED SLDS WRAPPER -->
+  <!-- Visualforceの場合、SLDSを使用するには要素がslds-scopeの影響下にある必要がある -->
   <div class="slds-scope">
 
     <!-- MASTHEAD -->
