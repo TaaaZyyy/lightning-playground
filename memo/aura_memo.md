@@ -23,6 +23,43 @@ CSSを書くことなく、SalesforceUIに準拠したデザインを使用で�
 
 
 ## グリッドシステムの理解
+行と列
+ネストできる
+SalesforceのグリッドシステムはCSS Flexboxがベース
+ブレークポイントは480px, 768px and 1024pxで設定
+
+グリッドシステムは、グリッドラッパー（slds-gridクラスで指定）とその中のカラム（slds-colクラスで指定）の2つの主要なビルディングブロックに基づいています。ここに例があります：
+
+<div class="slds-grid">
+  <div class="slds-col">Column 1</div>
+  <div class="slds-col">Column 2</div>
+  <div class="slds-col">Column 3</div>
+</div>
+
+自動でサイジングされる。手動の場合は、
+slds-size-X-of-Y形式を使用します（Xは総スペースYの一部を表します）
+
+<!-- BASIC GRID EXAMPLE -->
+<div class="slds-grid">
+  <div class="slds-col slds-size--4-of-6">Column 1</div>
+  <div class="slds-col slds-size--1-of-6">Column 2</div>
+  <div class="slds-col slds-size--1-of-6">Column 3</div>
+</div>
+
+画面サイズによってグリッドレイアウトを変更することが可能
+mobile small medium large
+
+<!-- RESPONSIVE GRID EXAMPLE -->
+<div class="slds-grid slds-wrap">
+  <div class="slds-col slds-size--1-of-1 slds-small-size--1-of-2 slds-medium-size--3-of-4">A</div>
+  <div class="slds-col slds-size--1-of-1 slds-small-size--1-of-2 slds-medium-size--1-of-4">B</div>
+</div>
+
+リストページの作成
+- 適切に配置されたトップヘッダー
+- メインリスエリア
+- ベースフッター
+
 ## Salesforceデータの操作
 ## 画像、アイコン、アバターの使用
 ## レコードページをレイアウトし、高度なコンポーネントを使用する
