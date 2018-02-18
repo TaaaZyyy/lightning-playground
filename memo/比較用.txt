@@ -1,0 +1,14 @@
+<!-- HEADING AREA -->
+          <div class="slds-media slds-no-space slds-grow">
+            <div class="slds-media__figure">
+              <span class="slds-avatar slds-avatar_medium">
+                <img src="{!URLFOR($Asset.SLDS, 'assets/images/avatar1.jpg')}" alt="" />
+              </span>
+            </div>
+            <div class="slds-media__body">
+              <p class="slds-text-title_caps slds-line-height_reset">Accounts</p>
+              <h1 class="slds-page-header__title slds-m-right--small slds-align-middle slds-truncate" title="My Accounts">My Accounts</h1>
+            </div>
+          </div>
+        </div>
+        <!-- / HEADING AREA -->
