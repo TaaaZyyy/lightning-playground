@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <title>Salesforce Lightning Design System Traihead Module</title>
+  <title>Salesforce Lightning Design System Trailhead Module</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <apex:slds />
 </head>
@@ -12,10 +12,8 @@
   <div class="slds-scope">
 
     <!-- MASTHEAD -->
-    <p class="slds-text-heading_label slds-m-bottom_small">
-      Salesforce Lightning Design System Trailhead Module
-    </p>
-    <!-- / MASTERHEAD -->
+    <p class="slds-text-heading_label slds-m-bottom_small">Salesforce Lightning Design System Trailhead Module</p>
+    <!-- / MASTHEAD -->
 
     <!-- PAGE HEADER -->
     <div class="slds-page-header" role="banner">
@@ -40,18 +38,6 @@
 
     <!-- PRIMARY CONTENT WRAPPER -->
     <div class="myapp">
-      <ul class="slds-list_dotted slds-m-top_large">
-        <li>Account 1</li>
-        <li>Account 2</li>
-        <li>Account 3</li>
-        <li>Account 4</li>
-        <li>Account 5</li>
-        <li>Account 6</li>
-        <li>Account 7</li>
-        <li>Account 8</li>
-        <li>Account 9</li>
-        <li>Account 10</li>
-      </ul>
     </div>
     <!-- / PRIMARY CONTENT WRAPPER -->
 
@@ -60,8 +46,9 @@
       <!-- LAYOUT GRID -->
       <div class="slds-grid slds-grid_align-spread">
         <p class="slds-col">Salesforce Lightning Design System Example</p>
-        <p class="slds-col">&copy; Tajima Takashi</p>
+        <p class="slds-col">&copy; Your Name Here</p>
       </div>
+      <!-- / LAYOUT GRID -->
     </footer>
     <!-- / FOOTER -->
 

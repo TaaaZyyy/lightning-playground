@@ -1,14 +1,46 @@
-<!-- HEADING AREA -->
-          <div class="slds-media slds-no-space slds-grow">
-            <div class="slds-media__figure">
-              <span class="slds-avatar slds-avatar_medium">
-                <img src="{!URLFOR($Asset.SLDS, 'assets/images/avatar1.jpg')}" alt="" />
-              </span>
-            </div>
-            <div class="slds-media__body">
-              <p class="slds-text-title_caps slds-line-height_reset">Accounts</p>
-              <h1 class="slds-page-header__title slds-m-right--small slds-align-middle slds-truncate" title="My Accounts">My Accounts</h1>
+      <!-- NARROW CARD -->
+      <div class="slds-col slds-p-left_large slds-size_4-of-12">
+
+        <article class="slds-card slds-card_narrow">
+
+          <div class="slds-card__header slds-grid">
+            <header class="slds-media slds-media_center slds-has-flexi-truncate">
+              <div class="slds-mdia__figure">
+                <svg class="slds-icon slds-icon-standard-lead slds-icon_small" aria-hidden="true">
+                  <use xlink:href="{!URLFOR($Asset.SLDS,'assets/icons/standard-sprite/svg/symbols.svg#lead')}"></use>
+                </svg>
+              </div>
+              <div class="slds-media__body slds-truncate">
+                <h2 class="slds-text-heading_small">Team</h2>
+              </div>
+            </header>
+          </div>
+          <!-- / slds-card__header -->
+
+          <div class="slds-card__body">
+            <div class="slds-card__body_inner">
+              <div class="slds-title">
+                <h3 class="slds-truncate" title="Anne Choi"><a href="javascript:void(0);">Anne Choi</a></h3>
+                <div class="slds-title__detail slds-text-body_small">
+                  <dl class="slds-list_horizontal slds-wrap">
+                    <dt class="slds-item_label slds-text-color_weak slds-truncate" title="Email:">
+                      Email:
+                    </dt>
+                    <dd class="slds-item_detail slds-truncate" title="achoi@burlingtion.com">
+                      achoi@burlingtion.com
+                    </dd>
+                  </dl>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <!-- / HEADING AREA -->
+          <!-- / slds-card__body -->
+
+          <div class="slds-card__footer">
+            <a href="javascript:void(0);">View All <span class="slds-assistive-text">team members</span></a>
+          </div>
+          <!-- / slds-card__footer -->
+
+        </article>
+      </div>
+      <!-- / NARROW CARD -->

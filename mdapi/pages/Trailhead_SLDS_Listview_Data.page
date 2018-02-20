@@ -103,7 +103,7 @@
       <!-- LAYOUT GRID -->
       <div class="slds-grid slds-grid_align-spread">
         <p class="slds-col">Salesforce Lightning Design System Example</p>
-        <p class="slds-col">&copy; Tajima Takashi</p>
+        <p class="slds-col">&copy; Your Name Here</p>
       </div>
     </footer>
     <!-- / FOOTER -->

@@ -103,7 +103,7 @@
       <!-- LAYOUT GRID -->
       <div class="slds-grid slds-grid_align-spread">
         <p class="slds-col">Salesforce Lightning Design System Example</p>
-        <p class="slds-col">&copy; Tajima Takashi</p>
+        <p class="slds-col">&copy; Your Name Here</p>
       </div>
     </footer>
     <!-- / FOOTER -->
@@ -135,7 +135,7 @@
             // start: icon
             let tableHeaderRowCellIcon = tableHeaderRow.insertCell(0);
             tableHeaderRowCellIcon.setAttribute('class', 'slds-cell-shrink');
-            // end: icon
+            // end:  icon
 
             let tableHeaderRowCell1 = tableHeaderRow.insertCell(1);
             tableHeaderRowCell1.appendChild(document.createTextNode('Account name'));
