@@ -16,3 +16,9 @@
 セレクタ    .sample
 プロパティ  color
 値          red
+
+
+BEM
+- block: 高位のコンポネント
+- element: 下位のコンポネント
+- modifier: 状態

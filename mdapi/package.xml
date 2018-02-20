@@ -67,11 +67,21 @@
     <members>Expense__c.Reimbursed__c</members>
   </types>
   <types>
+    <name>ApexPage</name>
+    <members>Trailhead_SLDS_Basic</members>
+    <members>Trailhead_SLDS_Listview</members>
+    <members>Trailhead_SLDS_Listview_Data</members>
+  </types>
+  <types>
     <name>Profile</name>
     <members>Admin</members>
     <members>Custom%3A Marketing Profile</members>
     <members>Custom%3A Sales Profile</members>
     <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>svg4everybody</members>
   </types>
   <version>41.0</version>
 </Package>
