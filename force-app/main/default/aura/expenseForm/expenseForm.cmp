@@ -9,7 +9,7 @@
     'Amount__c': 0,
     'Client__c': '',
     'Date__c': '',
-    'Reimbursed__c': false  
+    'Reimbursed__c': false
   }"/>
 
 
@@ -76,4 +76,4 @@
 
   </div>
   <!-- / CREATE NEW EXPENSE -->
-</aura:component>	
+</aura:component>

@@ -1,6 +1,0 @@
-({
-    createItem: function(component, newItem) {
-        
-    },
-
-})
